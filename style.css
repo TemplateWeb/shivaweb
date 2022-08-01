@@ -29,7 +29,7 @@ html{
     z-index: 1000;
 }
 .header #logo{
-    width: 75px;
+    width: 50px;
 }
 .highlight,h1,.provide{
   text-shadow: 2px 3px 6px gray;
@@ -172,9 +172,9 @@ html{
    border:1px solid gray;
 box-shadow:2px 3px 4px gray;
 border-radius:10px;
-transform:scale(0.8);
+transform:scale(0.7);
 }
-.inner-services-content{
+.inner-services-content:hover{
 transform:scale(1);
 transition:all .2s linear;
 }
