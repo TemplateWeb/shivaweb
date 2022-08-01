@@ -29,7 +29,7 @@ html{
     z-index: 1000;
 }
 .header #logo{
-    width: 150px;
+    width: 100px;
 }
 .highlight,h1,.provide{
   text-shadow: 2px 3px 6px gray;
