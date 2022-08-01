@@ -167,12 +167,14 @@ html{
 }
 .our-services{
     padding: 4rem 7%;
+}
+.inner-services-content{
    border:1px solid gray;
 box-shadow:2px 3px 4px gray;
 border-radius:10px;
 transform:scale(0.8);
 }
-.our-services{
+.inner-services-content{
 transform:scale(1);
 transition:all .2s linear;
 }
